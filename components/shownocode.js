@@ -45,12 +45,6 @@ export default withScreenSize(
               events,
             })}
           </div>
-          <div style={{ width: width }}>
-            <h2>Code</h2>
-          </div>
-        </div>
-        <div style={{ marginTop: '40px' }}>
-          <Gallery />
         </div>
         <style jsx>{`
           .container {
