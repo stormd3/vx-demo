@@ -3,6 +3,8 @@
 This is a fork of the
 [demo repo](https://github.com/hshoff/vx/tree/master/packages/vx-demo).
 
-* branch bp1 adds in the **shownocode** concept
-
-* branch bp2 add in the material-ui drawer
+* with the additional added functionality of the
+[shownocode](https://github.com/stormasm/vx-demo/blob/bp1/components/shownocode.js)
+concept
+* instead of **showcode** which enables a dropdown of the code associated
+with the demo. 
