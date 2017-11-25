@@ -6,5 +6,7 @@ This is a fork of the
 * with the additional added functionality of the
 [shownocode](https://github.com/stormasm/vx-demo/blob/bp1/components/shownocode.js)
 concept
-* instead of **showcode** which enables a dropdown of the code associated
-with the demo. 
+* instead of
+[showcode](https://github.com/stormasm/vx-demo/blob/bp1/components/show.js)
+which enables a dropdown of the code associated
+with the demo.
